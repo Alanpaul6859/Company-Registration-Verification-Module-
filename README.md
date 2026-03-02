@@ -74,9 +74,6 @@ Future Improvements
 
 
 
-Author
-Alan Paul
-Backend Developer Project
 
 
 
